@@ -1,0 +1,15 @@
+C:\curso-csharp\exercicios-curso-csharp\Capitulo3\EstruturaFor\EstruturaFor\bin\Debug\net10.0\EstruturaFor.exe
+C:\curso-csharp\exercicios-curso-csharp\Capitulo3\EstruturaFor\EstruturaFor\bin\Debug\net10.0\EstruturaFor.deps.json
+C:\curso-csharp\exercicios-curso-csharp\Capitulo3\EstruturaFor\EstruturaFor\bin\Debug\net10.0\EstruturaFor.runtimeconfig.json
+C:\curso-csharp\exercicios-curso-csharp\Capitulo3\EstruturaFor\EstruturaFor\bin\Debug\net10.0\EstruturaFor.dll
+C:\curso-csharp\exercicios-curso-csharp\Capitulo3\EstruturaFor\EstruturaFor\bin\Debug\net10.0\EstruturaFor.pdb
+C:\curso-csharp\exercicios-curso-csharp\Capitulo3\EstruturaFor\EstruturaFor\obj\Debug\net10.0\EstruturaFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\curso-csharp\exercicios-curso-csharp\Capitulo3\EstruturaFor\EstruturaFor\obj\Debug\net10.0\EstruturaFor.AssemblyInfoInputs.cache
+C:\curso-csharp\exercicios-curso-csharp\Capitulo3\EstruturaFor\EstruturaFor\obj\Debug\net10.0\EstruturaFor.AssemblyInfo.cs
+C:\curso-csharp\exercicios-curso-csharp\Capitulo3\EstruturaFor\EstruturaFor\obj\Debug\net10.0\EstruturaFor.csproj.CoreCompileInputs.cache
+C:\curso-csharp\exercicios-curso-csharp\Capitulo3\EstruturaFor\EstruturaFor\obj\Debug\net10.0\EstruturaFor.sourcelink.json
+C:\curso-csharp\exercicios-curso-csharp\Capitulo3\EstruturaFor\EstruturaFor\obj\Debug\net10.0\EstruturaFor.dll
+C:\curso-csharp\exercicios-curso-csharp\Capitulo3\EstruturaFor\EstruturaFor\obj\Debug\net10.0\refint\EstruturaFor.dll
+C:\curso-csharp\exercicios-curso-csharp\Capitulo3\EstruturaFor\EstruturaFor\obj\Debug\net10.0\EstruturaFor.pdb
+C:\curso-csharp\exercicios-curso-csharp\Capitulo3\EstruturaFor\EstruturaFor\obj\Debug\net10.0\EstruturaFor.genruntimeconfig.cache
+C:\curso-csharp\exercicios-curso-csharp\Capitulo3\EstruturaFor\EstruturaFor\obj\Debug\net10.0\ref\EstruturaFor.dll
