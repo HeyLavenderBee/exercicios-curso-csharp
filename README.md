@@ -14,6 +14,7 @@ Neste curso, as seguintes habilidades foram praticadas:
 - Encapsulamento
 - Arrays
 - Listas
+- Matrizes
 <br><br>
 Link do curso:<br>
 https://www.udemy.com/course/programacao-orientada-a-objetos-csharp/
