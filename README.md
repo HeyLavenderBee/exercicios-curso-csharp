@@ -1,8 +1,11 @@
 # Listas de Exercícios Curso C#
-Conjunto de todas as listas de exercícios do curso de C#, para treinar a sintaxe com a linguagem, assim como a programação orientada a objetos. <br>
-Todo o conteúdo está separado em capítulos, que começa a partir do Capítulo 3. Dentro de cada capítulo, as listas são separadas por seus respectivos nomes, contendo um projeto para cada listas, com todos os códigos dentro de arquivos Program.cs.
+Aqui eu disponibilizo um repositório de todas as listas de exercícios do curso de C#, para aprender e treinar a sintaxe com a linguagem, assim como a programação orientada a objetos. <br>
+<br>
+Todo o conteúdo está separado em um diretório para cada seção (ex: `Section4/`), que começa a partir da Seção 3.
+Dentro de cada pastas, as listas de exercícios são separadas por subdiretórios, com o nome do conteúdo que foi tratado, contendo um projeto para cada lista de exercício, com todos os códigos principais desenvolvidos dentro de arquivos `Program.cs`.<br>
+Para listas de exercícios de POO, as classes utilizadas estão dentro de arquivos `.cs`, também com seus nomes.
 <br><br>
-Neste curso, as seguintes habilidades foram praticadas:
+#### <bold>Neste curso, as seguintes habilidades foram praticadas:</bold>
 - Estrutura sequencial
 - Estrutura condicional
 - Funções
@@ -15,5 +18,7 @@ Neste curso, as seguintes habilidades foram praticadas:
 - Arrays
 - Listas
 <br><br>
-Link do curso:<br>
+
+Link do curso:
+<br>
 https://www.udemy.com/course/programacao-orientada-a-objetos-csharp/
