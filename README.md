@@ -13,6 +13,7 @@ Neste curso, as seguintes habilidades foram praticadas:
 - Construtores e sobrecarga
 - Encapsulamento
 - Arrays
+- Listas
 <br><br>
 Link do curso:<br>
 https://www.udemy.com/course/programacao-orientada-a-objetos-csharp/
